@@ -1,10 +1,10 @@
-** CoinMarketCap UI tests**
+**CoinMarketCap UI tests**
  
-** Front End Task Technologies :**
+**Front End Task Technologies :**
 
 Technologies used: Selenium Webdriver – Java – TestNG - Maven
 
-** OverView**
+**OverView**
 
 - Added Task 1 Test case using Selenium Webdriver with java and executed. 
 
